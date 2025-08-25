@@ -112,8 +112,15 @@
 
 - name: Julian Ezra Samuel
   photo: julian_samuel.jpg
-  info: Master Student, started Aug 2024
+  info: Master student in computer science, started Aug 2024
   email: julian_ezra[at]tamu[dot]edu
   number_educ: 2
   education1: B.S. in Physics, Loyola College, Chennai, India
   education2: M.S. in Physics, National Institute of Technology, Calicut, India
+
+- name: Barry Liu
+  photo: barry_liu.png
+  info: Master student in computer science, started Aug 2024
+  email: barryliu34[at]tamu[dot]edu
+  number_educ: 1
+  education1: B.S. in Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
