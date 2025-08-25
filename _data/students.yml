@@ -80,28 +80,29 @@
 #   education1:
 #   education2:
 
-- name: Shivesh Kodali
-  photo: bio-photo.jpg
-  info: Master Student in Data Science, started on Jan 2024
-  email: shivesh_2001[at]tamu[dot]edu
-  number_educ: 0
-  education1:
-  education2:
+# - name: Shivesh Kodali
+#   photo: bio-photo.jpg
+#   info: Master Student in Data Science, started on Jan 2024
+#   email: shivesh_2001[at]tamu[dot]edu
+#   number_educ: 0
+#   education1:
+#   education2:
 
-- name: Olivia Lee
-  photo: olivia.jpg
-  info: Bachelor Student in Computer Science, started on Aug 2024
-  email: oliviafrancislee[at]tamu[dot]edu
-  number_educ: 0
-  education1:
-  education2:
+# - name: Olivia Lee
+#   photo: olivia.jpg
+#   info: Bachelor Student in Computer Science, started on Aug 2024
+#   email: oliviafrancislee[at]tamu[dot]edu
+#   number_educ: 0
+#   education1:
+#   education2:
 
-- name: Atharva Kulkarni
-  photo: atharva.png
-  info: Master Student, started Aug 2024
-  email: atkulkarni[at]tamu[dot]edu
-  number_educ: 1
-  education1: B.S. in Computer Science, University of Wisconsin-Madison
+# - name: Atharva Kulkarni
+#   photo: atharva.png
+#   info: Master Student, started Aug 2024
+#   email: atkulkarni[at]tamu[dot]edu
+#   number_educ: 1
+#   education1: B.S. in Computer Science, University of Wisconsin-Madison
+
 # - name: Siddhant Bhagat
 #   photo: bio-photo.jpg
 #   info: Master's Student, started Aug 2024
