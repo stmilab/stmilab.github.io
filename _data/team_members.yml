@@ -53,14 +53,14 @@
 #   education2: B.S. in Electrical Engineering, University of Tehran
 #   education3:
 
-- name: Zhale Nowroozilarki
-  photo: zhale.jpg
-  info: Ph.D. Student, started Aug 2020
-  email: zhale{at}tamu{dot}edu
-  number_educ: 2
-  education1: M.S. in Computational Health Informatics, University of Houston
-  education2: B.S. in Computer Engineering, K. N. Toosi University of Technology
-  education3:
+# - name: Zhale Nowroozilarki
+#   photo: zhale.jpg
+#   info: Ph.D. Student, started Aug 2020
+#   email: zhale{at}tamu{dot}edu
+#   number_educ: 2
+#   education1: M.S. in Computational Health Informatics, University of Houston
+#   education2: B.S. in Computer Engineering, K. N. Toosi University of Technology
+#   education3:
 
 - name: <a href="https://kingrc15.github.io/">Ryan King</a>
   photo: ryan.jpg
