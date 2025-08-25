@@ -4,6 +4,10 @@
 #
 
 - date: 17 May 2025
+  keyword: New Lab Member!
+  headline: The STMI lab is excited to welcome Gefei Shen to our lab as a new PhD student!
+
+- date: 17 May 2025
   keyword: Graduation!
   headline: The STMI lab is excited to announce the graduation of our PhD student Arash Pakbin and Zhale Nowroozilarki!
 
@@ -25,7 +29,7 @@
 
 - date: 15 April 2024
   keyword: 1 Published Journal!
-  headline: The STMI lab congratulates Sicong Huang for her paper accepted by IEEE OJEMB!
+  headline: The STMI lab congratulates Sicong Huang for his paper accepted by IEEE OJEMB!
 
 - date: 15 April 2024
   keyword: 1 Published Paper!
@@ -126,10 +130,6 @@
 - date: 08 May 2021
   keyword: New Lab Member!
   headline: The STMI lab congratulates undergraduate member Sicong Huang for his graduation and welcomes him back to our lab as a PhD student
-
-# - date: 19 November 2020
-#   keyword: New NSF Award!
-#   headline: Dr. Mortazavi is part of a team that has just been awarded a $15,000 seed grant from the National Science Foundation for Technology for Automated Capture of Diet, Nutrition, and Eating Behaviors, (Co-PI with lead PI Dr. Jessilyn Dunn, from Duke University). You can follow the project progress <a href=''>here</a>
 
 - date: 01 October 2020
   keyword: New NSF Award!

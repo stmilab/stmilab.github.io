@@ -105,3 +105,11 @@
   number_educ: 1
   education1: B.S. in Applied Mathematics, Texas A&M University
   education2:
+
+- name: Gefei Shen
+  photo: bio-photo.jpg
+  info: Ph.D. Student, started on Aug 2025
+  email: gshen[at]tamu[dot]edu
+  number_educ: 2
+  education1: B.S. in Computer Science, University of Wisconsin-Madison
+  education2: M.S. in Electrical and Computer Engineering, University of Wisconsin-Madison
