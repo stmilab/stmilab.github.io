@@ -13,6 +13,21 @@
 #   workshop: 0
 #   patent: 0
 #
+- title: "Towards a dynamic model to estimate evolving risk of major bleeding after percutaneous coronary intervention"
+  image:
+  description: 
+  authors: N. C. Hurley, N. Desai, S. S. Dhruva, R. Khera, W. Schulz, C. Huang, J. Curtis, F. Masoudi, J. Rumsfeld, S. Negahban, H. M. Krumholz, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1371/journal.pdig.0000906
+    display: PLOS Digital Health (2025)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+
 - title: "Non-invasive Electrolyte Estimation Using Multi-lead ECG data via Semi-supervised Contrastive Learning with an Adaptive Loss"
   image:
   description: Abnormal electrolyte concentration in blood can lead to serious conditions such as renal failure, high blood pressure, and a life-threatening type of arrhythmia. Electrocardiogram (ECG) is a non-invasive measure of cardiac electrical activity and can capture subtle changes in electrolyte changes. While classification of ECGs with abnormal electrolyte ranges such as potassium levels has been reported, there is a need to leverage continuous ECGs for regressing electrolyte values. Label scarcity is a major limitation in training machine learning-based models for this purpose. Additionally, measured electrolyte values that are accessible in electronic health records datasets typically exhibit a distribution with fewer data points at the extremes which are crucial for accurate prediction. We tackle the above challenges with a pretrained ECG encoder with large but unlabeled datasets to maximize generalization and an adaptive loss that inversely regularizes backpropagation with label frequency. This results in a reduction of 0.1, 0.16, and 0.41 in MAE of the blood potassium, calcium, and sodium level regression tasks respectively, and an improvement of more than 0.15 improvement in the AUROC for the abnormal electrolyte classification tasks when compared against the state-of-the-art models.
