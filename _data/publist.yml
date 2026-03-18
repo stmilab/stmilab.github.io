@@ -13,9 +13,23 @@
 #   workshop: 0
 #   patent: 0
 #
+- title: "Machine Learning Uncovers a New Diagnostic Threshold for Mild Aortic Stenosis in Large Observational Data Sets"
+  image:
+  description:
+  authors: B. J. Mortazavi, X. Yao, C. Huang
+  link:
+    url: https://doi.org/10.1016/j.jacc.2025.02.030
+    display: Journal of the American College of Cardiology (JACC) (2025)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
 - title: "Towards a dynamic model to estimate evolving risk of major bleeding after percutaneous coronary intervention"
   image:
-  description: 
+  description:
   authors: N. C. Hurley, N. Desai, S. S. Dhruva, R. Khera, W. Schulz, C. Huang, J. Curtis, F. Masoudi, J. Rumsfeld, S. Negahban, H. M. Krumholz, B. J. Mortazavi
   link:
     url: https://doi.org/10.1371/journal.pdig.0000906
@@ -27,6 +41,33 @@
   workshop: 0
   patent: 0
 
+- title: "[TITLE TBD - Zhale BSN 2025 paper]"
+  image:
+  description:
+  authors: Z. Nowroozilarki, B. J. Mortazavi
+  link:
+    url:
+    display: IEEE 21st International Conference on Body Sensor Networks (BSN) (2025)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "[TITLE TBD - Zhale EMBC 2025 paper]"
+  image:
+  description:
+  authors: Z. Nowroozilarki, B. J. Mortazavi
+  link:
+    url:
+    display: Conference of the IEEE EMBS (EMBC) (2025)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
 
 - title: "Non-invasive Electrolyte Estimation Using Multi-lead ECG data via Semi-supervised Contrastive Learning with an Adaptive Loss"
   image:
