@@ -13,6 +13,7 @@ permalink: /pi/
 <div class="col-sm-3 text-center" style="margin: auto;">
   <br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="width: 100%; margin: auto; max-width: 200px;" />
+  *Or you may prefer: [an older photo](https://stmilab.github.io/images/teampic/bobak_old.jpg)*
 </div>
 
 ### About Me
