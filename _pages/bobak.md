@@ -19,13 +19,18 @@ permalink: /pi/
 
 I am an Associate Professor in the Department of Computer Science & Engineering at Texas A&M University. My research focuses on systems and analytics for personalized health, emphasizing machine learning methods that enhance clinical outcomes through multimodal modeling and dynamic risk prediction. Previously, my work has pioneered the integration of machine learning and embedded systems with clinical outcomes research, including in large collaborative efforts for designing cuffless blood pressure monitors and automated diet estimation from continuous glucose monitors.
 
-Before joining Texas A&M, I have completed my postdoctoral fellowship at Yale under supervision of Prof. Harlan Krumholz at the Center for Outcomes Research and Evaluation (CORE) and Prof. Sahand Negahban in the Department of Statistics. I receieved my Ph.D. in C.S. under the supervision of Prof. Majid Sarrafzadeh at the Wireless Health Institute at UCLA. I received my B.A. in Applied Mathematics and B.S. in Electrical Engineering and Computer Science from the University of California, Berkeley.
+Before joining Texas A&M, I have completed my postdoctoral fellowship at Yale under supervision of Prof. Harlan Krumholz at the Center for Outcomes Research and Evaluation (CORE) and Prof. Sahand Negahban in the Department of Statistics. I received my Ph.D. in C.S. under the supervision of Prof. Majid Sarrafzadeh at the Wireless Health Institute at UCLA. I received my B.A. in Applied Mathematics and B.S. in Electrical Engineering and Computer Science from the University of California, Berkeley.
 
 ### Research Interests
 
 - **Systems and Analytics for Personalized Digital Health**: Design of machine learning methods for clinical outcomes using multimodal modeling and clinician-in-the-loop time-varying, dynamic risk prediction.
 - **Personalized Sensing and IoMT**: Design of analytics to connect Internet of Medical Things to clinical outcomes research for personal and remote sensing and digital health.
 - **Translational Clinical Outcomes Research**: Implement techniques to enable clinical translation and facilitate clinical interventions, observational comparative effectiveness, and improve outcomes.
+
+### Recent Highlights
+
+- General Co-Chair, IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2025), October 2025
+- General Co-Chair, IEEE-EMBS International Conference on Body Sensor Networks (BSN 2025), November 2025
 
 #### **Please refer to my [CV](/downloads/BJ-Mortazavi-CV-2024-10-21.pdf) for more information**
 
