@@ -32,6 +32,4 @@ Before joining Texas A&M, I completed my postdoctoral fellowship at Yale under t
 - General Co-Chair, IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2025), October 2025
 - General Co-Chair, IEEE-EMBS International Conference on Body Sensor Networks (BSN 2025), November 2025
 
-#### **Please refer to my [CV](/downloads/BJ-Mortazavi-CV-2024-10-21.pdf) for more information**
-
 **We are looking for passionate new PhD students, master's, and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
